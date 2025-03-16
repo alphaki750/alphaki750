@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alphaki750Hi there, 
+- 👋 Hi, I’m @alphaHi there, 
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source projects, and exploring new technologies.
 
